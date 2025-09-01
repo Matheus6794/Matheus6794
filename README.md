@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, pessoal 👋
 
-<!--
-**Matheus6794/Matheus6794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Apenas uma pessoa que é apaixonado em programação desde os meus 13 anos, amo tudo que envolva tecnologia em geral**
 
-Here are some ideas to get you started:
+## Meus objetivos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+° **Atualmente sou estudante na área de Análise e desenvolvimento de sistemas**
+
+° **Busco me especializar em back-end com JavaScript e SQL**
+
+### Tecnologias que estou me aprimorando
+
+° 🟨 Javascript, 👨‍💻 SQL, ✍️ HTML e 🎨 CSS, 🌐 Node.js e Express.js
+
+**🫵 Você pode me encontrar por aqui no GitHub sempre compartilhando meus estudos e projetos que farei ao longo do tempo**
